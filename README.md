@@ -41,7 +41,7 @@ La plataforma permite registrar información médica relevante y, en conjunto co
 
 ## 📂 Estructura del proyecto
 
-
+```
 rastreo-medico/
 │
 ├── 📁 src/
@@ -57,7 +57,7 @@ rastreo-medico/
 │ └── schema.sql
 │
 └── README.md
-
+```
 
 ---
 
@@ -74,7 +74,7 @@ rastreo-medico/
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tuusuario/rastreo-medico.git
+git clone https://github.com/isairey/AppRastreoMedico.git
 ```
 
 - Importar el proyecto en tu IDE (Eclipse, IntelliJ, NetBeans)
